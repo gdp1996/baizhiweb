@@ -14,7 +14,7 @@
                            http://www.springframework.org/schema/tx/spring-tx-3.2.xsd ">
                       
 	<context:component-scan base-package="com.baizhi.*"></context:component-scan>
- 
+ <!--测试一下试试-->
 	<context:property-placeholder
 		location="classpath:com/baizhi/properties/jdbc.properties" />
 	
